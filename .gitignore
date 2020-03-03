@@ -1,0 +1,56 @@
+# ============ #
+# UME generated #
+# ============ #
+
+/game/logging/recording/*.mp3
+/game/logging/recording/*.wav
+/game/logging/editor/*.db
+
+# =============== #
+# Unity generated #
+# =============== #
+/game/[Tt]emp/
+/game/[Oo]bj/
+/game/[Bb]uild/
+/game/[Ll]ibrary/metadata/
+/game/[Ll]ibrary/ShaderCache/
+/game/[Ll]ibrary/cache/
+/game/[Ll]ibrary/ScriptAssemblies/
+/game/[Ll]ibrary/assetDatabase*
+/game/[Ll]ibrary/*.log
+/game/[Ll]ibrary/*.db
+/game/UnityPackageManger/
+/game/**/*.stackdump
+/game/Assets/AssetStoreTools/
+/game/**/*.pidb.meta
+/game/**/sysinfo.txt
+/game/**/*.apk
+/game/**/*.unitypackage
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/game/[Ee]xported[Oo]bj/
+/game/.*
+/game/*.userprefs
+/game/*.csproj
+/game/*.pidb
+/game/*.suo
+/game/*.sln
+/game/*.user
+/game/*.tmp
+/game/*.svd
+/game/*.unityproj
+/game/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+/game/.DS_Store*
+/game/._*
+/game/.Spotlight-V100
+/game/.Trashes
+/game/Icon?
+/game/ehthumbs.db
+/game/[Tt]humbs.db
+
+
